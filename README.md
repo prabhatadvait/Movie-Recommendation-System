@@ -52,7 +52,7 @@ Feel free to fork this project and contribute. If you want to add features or fi
 ## 📞 Contact
 For further details or inquiries, feel free to reach out:
 
-- **LinkedIn**: [Prabhat Sharma](https://www.linkedin.com/in/prabhat-kumar-1260a5259)
+- **LinkedIn**: [Prabhat Kumar](https://www.linkedin.com/in/prabhat-kumar-1260a5259)
 - **Email**: [prabhatsharma84226@gmail.com](mailto:prabhatsharma84226@gmail.com)
 - **Instagram**: [@prabhatadvait](https://www.instagram.com/prabhatadvait)
 - **YouTube**: [@prabhatadvait](https://www.youtube.com/@prabhatadvait)
